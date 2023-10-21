@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1AE10021-2C72-493F-8D28-64E5460D69FB}|http">
+  <MonoDevelop.Ide.ItemProperties.AdminTourismo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Account/Registrar.cshtml">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="3" />
+      <File FileName="Views/Account/Registrar.cshtml" Line="17" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdminTourismo" expanded="True">
+            <Node name="AdminTourismo">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True">
+                  <Node name="Registrar.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Recuperar contraseña";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="email">Correo electrónico</label>
+        <input type="email" class="form-control" id="email" name="email" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar enlace de recuperación</button>
+</form>
